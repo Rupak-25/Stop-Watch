@@ -22,7 +22,7 @@ The Stopwatch project is a simple, yet powerful timing tool built with React and
 <h1>📦 Installation</h1>
 <h4>Follow these steps to set up the project locally:</h4>
 - Clone the repository:<br/>
-✅ git clone https://github.com/your-username/stopwatch.git<br/>
+✅ git clone https://github.com/Rupak-25/Stop-Watch.git<br/>
 ✅ cd stopwatch<br/>
 
 <h1>Install the dependencies:</h1>
